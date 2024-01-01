@@ -1,0 +1,33 @@
+{
+  "name": "app",
+  "scripts": {
+    "dev": "rsbuild dev"
+  },
+  "dependencies": {
+    "element-ui": "^2.15.14",
+    "vue": "^2.7.15",
+    "vue-router": "^3.6.5"
+  },
+  "devDependencies": {
+    "@ttou/define-config": "^3.2.0",
+    "@ttou/element2-typings": "^2.2.3",
+    "@types/node": "^16.18.59",
+    "@typescript-eslint/eslint-plugin": "^6.9.0",
+    "@typescript-eslint/parser": "^6.9.0",
+    "@vue/eslint-config-typescript": "^12.0.0",
+    "@rsbuild/core": "^0.2.13",
+    "@rsbuild/plugin-vue2": "^0.2.13",
+    "eslint": "^8.52.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
+    "eslint-plugin-vue": "^9.18.1",
+    "postcss": "^8.4.31",
+    "postcss-html": "^1.5.0",
+    "prettier": "^3.0.3",
+    "simple-git-hooks": "^2.9.0",
+    "stylelint": "^15.11.0",
+    "stylelint-config-standard": "^34.0.0",
+    "typescript": "^5.2.2"
+  }
+}
